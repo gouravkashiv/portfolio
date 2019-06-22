@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "just a website about me",
+  "main": "script.js",
+  "scripts": {
+    "test": "build "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouravkashiv/portfolio.git"
+  },
+  "keywords": [
+    "\"Gourav",
+    "Kashiv\""
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gouravkashiv/portfolio/issues"
+  },
+  "homepage": "https://github.com/gouravkashiv/portfolio#readme"
+}
