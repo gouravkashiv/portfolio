@@ -1,8 +1,21 @@
+/* CSS Reset */
 body {
-	margin: 0px;
+	margin:0px;
+	padding:0px;
+}
+/* Logo */
+#logo{
+    margin: 10px 34px;
+	border:2px solid red;
 }
 
-.container {
+#logo img{
+    height: 59px;
+    margin: 3px 6px;
+	
+}
+
+/* .container {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
@@ -27,4 +40,4 @@ img {
 
 img:hover {
 	transform: scale(1.2);
-}
+} */
